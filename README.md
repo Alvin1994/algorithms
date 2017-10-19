@@ -1,2 +1,6 @@
 # tutorial-python
-Basic operation on python.
+Author: YU-FENG
+
+Vission: Basic operation on Python
+
+License: Use for education only.
