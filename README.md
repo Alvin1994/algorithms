@@ -1,6 +1,4 @@
-# tutorial-python
+# Build algorithms from scratch
 Author: YU-FENG
-
-Vission: Basic operation on Python
 
 License: Use for education only.
